@@ -1,0 +1,29 @@
+{
+  "name": "avatar",
+  "version": "1.0.0",
+  "description": "application for video diary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GiWoongLee/avatar.git"
+  },
+  "keywords": [
+    "avatar",
+    "diary",
+    "video",
+    "diary"
+  ],
+  "author": "GiWoongLee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GiWoongLee/avatar/issues"
+  },
+  "homepage": "https://github.com/GiWoongLee/avatar#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "nodemon": "^1.17.1"
+  }
+}
