@@ -2,7 +2,7 @@
   "name": "avatar",
   "version": "1.0.0",
   "description": "application for video diary",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,8 +13,7 @@
   "keywords": [
     "avatar",
     "diary",
-    "video",
-    "diary"
+    "video"
   ],
   "author": "GiWoongLee",
   "license": "ISC",
